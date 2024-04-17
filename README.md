@@ -5,3 +5,5 @@ This is sample of widely used POM framework in selenium using Java as scripting 
 Downlaod project in your local machine and Import Project as exisitng maven project.
 After imporitng, use 'mvn clean' command
 Use 'mvn test' to execute test cases.
+
+Test for MVN
